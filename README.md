@@ -1,6 +1,7 @@
+![MasterHead](https://cdn.dribbble.com/userupload/7992618/file/original-7e7c2109c41bd2a724cf014c92bdf9c9.jpg?resize=1200x400)
 <h1 align="center">Hi 👋, I'm Shadwar Nayyar</h1>
 <h3 align="center">A passionate MERN developer and ML enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1315953/screenshots/9082149/media/8394e95233e3d268b4be7f30892f32cf.gif">
 - 🔭 I’m currently working on **Fake News Detection**
 
 - 🌱 I’m currently learning **Machine Learning**
