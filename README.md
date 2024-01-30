@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadwar Nayyar</h1>
 <h3 align="center">A passionate MERN developer and ML enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
 - 🔭 I’m currently working on **Fake News Detection**
 
 - 🌱 I’m currently learning **Machine Learning**
