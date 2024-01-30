@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shadwar Nayyar</h1>
 <h3 align="center">A passionate MERN developer and ML enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1315953/screenshots/9082149/media/8394e95233e3d268b4be7f30892f32cf.gif">
-- 🔭 I’m currently working on **Fake News Detection**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Machine Learning**
 
