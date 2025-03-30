@@ -1,16 +1,16 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7992618/file/original-7e7c2109c41bd2a724cf014c92bdf9c9.jpg?resize=1200x400)
 <h1 align="center">Hi 👋, I'm Shadwar Nayyar</h1>
-<h3 align="center">A passionate MERN developer and ML enthusiast from India</h3>
+<h3 align="center">A passionate Full-Stack developer and ML enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Youtube Playlist Task Scheduler**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-zeta-lemon-53.vercel.app/](https://portfolio-zeta-lemon-53.vercel.app/)
 
-- 💬 Ask me about **react, machine learning**
+- 💬 Ask me about **Full stack , Technology , Generative AI, Automaation tools**
 
-- 📫 How to reach me **shadwarnayyar@gmail.com**
+- 📫 How to reach me **shadwarnayyar872@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/182u-6bGE7Kdz2HZERSKdc6tDT293IFZL/view?usp=drivesdk](https://drive.google.com/file/d/182u-6bGE7Kdz2HZERSKdc6tDT293IFZL/view?usp=drivesdk)
 
